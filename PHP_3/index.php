@@ -18,7 +18,7 @@
             <input type="password" name="password">
             <button>submit</button>
         </div>
-    </form>
+    <a href="register-page.php">Already a member? Click here!</a>
 </body>
 
 </html>
