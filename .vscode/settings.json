@@ -1,0 +1,6 @@
+{
+    "php.problems.scope": "none",
+    "php.stubs": [
+        "*"
+    ]
+}

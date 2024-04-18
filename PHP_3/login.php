@@ -24,4 +24,13 @@ $email = validation($_POST['email']);
 //Se estiver vazio, retorne o erro
 if(empty(trim($username)) || empty(trim($password)) || empty(trim($email))){
     header('Location: index.php?error=there is an empty input');
+} else{
+    echo'sucessful loged in <br>';
+    $credentials = [
+        $username,
+        $password,
+        $email
+    ];
+    echo'Welcome ' . $credentials[0] . '!';
+    header('Location: main_page.html'); 
 }
