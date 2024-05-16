@@ -11,7 +11,10 @@
 
 <body>
     <div class="container">
-        main page
+        <?php
+        
+            echo 'hello user'
+        ?>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
