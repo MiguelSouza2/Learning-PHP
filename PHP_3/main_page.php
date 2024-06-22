@@ -11,7 +11,14 @@
 
 <body>
     <div class="container">
+<<<<<<< HEAD
         welcome user!
+=======
+        <?php
+        
+            echo 'hello user'
+        ?>
+>>>>>>> 0f310e66a152882747c4da80d64dd74203fa6877
     </div>
     
 
