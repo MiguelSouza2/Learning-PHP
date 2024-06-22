@@ -20,5 +20,5 @@
         </div>
     <a href="register-page.php">Already a member? Click here!</a>
 </body>
-
+    
 </html>
