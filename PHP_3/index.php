@@ -26,7 +26,7 @@
                 <input type="password" name="password">
             </div>
             <button class="btn btn-primary mt-2 mb-2">submit</button>
-            <a href="register-page.php">Already a member? Click here!</a>
+            <a href="login-page.php">Already a member? Click here!</a>
         </div>
 
 
