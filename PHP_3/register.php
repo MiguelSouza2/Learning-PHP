@@ -17,7 +17,7 @@ if (isset($_POST['username']) && ($_POST['password'])) {
 }
 
 if (empty(trim($username)) || empty(trim($password)) || empty(trim($email))) {
-    header('Location: register-page.php?error=there is an empty input');
+    header('Location: +=?error=there is an empty input');
 } else {
     header("Location: main_page.php");
 }

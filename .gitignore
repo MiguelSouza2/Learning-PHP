@@ -1,0 +1,22 @@
+# Ignorar arquivos de compilação
+*.hhbc
+*.hhvm.hhbc
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar diretórios de dependências do Composer
+vendor/
+
+# Ignorar arquivos de configuração
+.env
+
+# Ignorar arquivos de IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
