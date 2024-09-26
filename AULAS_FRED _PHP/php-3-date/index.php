@@ -19,12 +19,7 @@
         echo"Horário: " . date('G:i:s') . '<br> Data: ' . date('d:m:Y') . '<br> <br>';
         
         
-        $alunos = array(
-            'Mario', 'Miguel jose', 'Miguel Isack', 'VT' => 'Vitor Theodoro'
-        );
-
-
-        echo 'Hello ' . $alunos['VT'];
+        
     ?>
 </body>
 

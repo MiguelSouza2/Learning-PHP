@@ -10,7 +10,7 @@
         <label for="campo_nome">Nome</label>
         <input type="text" name="campo_nome" id="campo_nome">
 
-        <label for="campo_cidade">Nome</label>
+        <label for="campo_cidade">Cidade</label>
         <input type="text" name="campo_cidade">
         <input type="submit">
     </form>
