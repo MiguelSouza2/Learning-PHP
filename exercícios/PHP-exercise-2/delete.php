@@ -1,0 +1,1 @@
+<?php $archive=$_GET["id"]; $path="received/" ; unlink($path.$archive); header("location:index.php");
